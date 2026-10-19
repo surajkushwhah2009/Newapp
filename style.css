@@ -1,0 +1,73 @@
+body{
+  background-color: blueviolet;
+}
+
+.logo{
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin: 20px 160px;
+  font-size: xx-large;
+  text-align: center;
+  align-content: center;
+  background-color: skyblue;
+}
+
+.container{
+  height: 550px;
+  width: 380px;
+  border-radius: 25px;
+  box-shadow: 5px 5px 15px rgba(0.5,.5, .5,.5);
+  background-color: azure;
+  overflow-y: auto;
+}
+
+.massage{
+  height: 25px;
+  width: fit-content;
+  background-color: gray;
+  text-align: center;
+  align-content: center;
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin: 10px;
+}
+
+
+.right{
+  float: right;
+  clear: both;
+}
+
+.left{
+  float: left;
+  clear: both;
+}
+
+.input{
+  height: 30px;
+  width: 360px;
+  border-radius: 15px;
+  padding-left: 15px;
+  outline: none;
+  border: 1px solid black;
+  margin-top: 5px;
+  font-size: 10px;
+  
+}
+
+.btn{
+  height: 32px;
+  width: 60px;
+  text-align: center;
+  align-content: center;
+  background-color: orange;
+  border-radius: 25px;
+  border: none;
+  position: relative;
+  top: -33px;
+  left: 319px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+
+}
